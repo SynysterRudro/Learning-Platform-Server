@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Structured Programming language"
+    },
+    {
+        "id": "02",
+        "name": "Fundamentals of Computers"
+    },
+    {
+        "id": "03",
+        "name": "Object Oriented Programming"
+    },
+    {
+        "id": "04",
+        "name": "Artificial Intelligence"
+    },
+    {
+        "id": "05",
+        "name": "Machine Learning"
+    },
+    {
+        "id": "06",
+        "name": "Data Structure"
+    }
+]
