@@ -1,26 +1,44 @@
 [
     {
         "id": "01",
-        "name": "Structured Programming language"
+        "name": "Structured Programming language",
+        "price": "101.2",
+        "img": "https://previews.123rf.com/images/radiantskies/radiantskies1211/radiantskies121100177/16084290-abstract-word-cloud-for-structured-programming-with-related-tags-and-terms.jpg",
+        "details": "Structured programming encourages dividing an application program into a hierarchy of modules or autonomous elements, which may, in turn, contain other such elements. Within each element, code may be further structured using blocks of related logic designed to improve readability and maintainability."
     },
     {
         "id": "02",
-        "name": "Fundamentals of Computers"
+        "name": "Fundamentals of Computers",
+        "price": "80.5",
+        "img": "https://elearn.daffodilvarsity.edu.bd/pluginfile.php/770164/course/section/123200/C1019_logo.jpg",
+        "details": "Computer is an advanced electronic device that takes raw data as an input from the user and processes it under the control of a set of instructions (called program), produces a result (output), and saves it for future use. This tutorial explains the foundational concepts of computer hardware, software, operating systems, peripherals, etc. along with how to get the most value and impact from computer technology."
     },
     {
         "id": "03",
-        "name": "Object Oriented Programming"
+        "name": "Object Oriented Programming",
+        "price": "90.89",
+        "img": "https://t4.ftcdn.net/jpg/02/82/83/43/360_F_282834358_GsI73ouaSfAthZbVOW11QTF8br45kHKr.jpg",
+        "details": "Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior."
     },
     {
         "id": "04",
-        "name": "Artificial Intelligence"
+        "name": "Artificial Intelligence",
+        "price": "150.10",
+        "img": "https://t3.ftcdn.net/jpg/03/89/44/78/360_F_389447871_Hb6YdnzDRds5EYCnkK8pYBkLQjEXiKzq.jpg",
+        "details": "Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving."
     },
     {
         "id": "05",
-        "name": "Machine Learning"
+        "name": "Machine Learning",
+        "price": "210",
+        "img": "https://previews.123rf.com/images/antonshaparenko/antonshaparenko1907/antonshaparenko190700110/126206486-machine-learning-vector-icon-illustration-creative-sign-from-crm-icons-collection-filled-flat-machin.jpg",
+        "details": "Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values."
     },
     {
         "id": "06",
-        "name": "Data Structure"
+        "name": "Data Structure",
+        "price": "95.67",
+        "img": "https://www.vlrtraining.in/wp-content/uploads/2020/10/logo-data-structure.png",
+        "details": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways."
     }
 ]
